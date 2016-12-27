@@ -1,0 +1,13 @@
+---
+:api_key: c24f7ea3290dca3e4f258cf0146b5b70
+:password: 7cf0b5196fdb2fc300ddfc8a49a7dc48
+:store: ryansy.myshopify.com/
+:theme_id:
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
+- sections/
