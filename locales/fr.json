@@ -1,4 +1,25 @@
 {
+  "order_form": {
+    "general": {
+      "title": "Order Form",
+      "note": "Add a note to your order",
+      "remove": "Remove",
+      "subtotal": "Subtotal",
+      "savings": "You're saving",
+      "shipping_at_checkout": "Shipping & taxes calculated at checkout",
+      "update": "Update",
+      "checkout": "Check out",
+      "empty": "Your cart is currently empty.",
+      "edit": "Edit",
+      "cancel": "Cancel"
+    },
+    "label": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total"
+    }
+  },
   "general": {
     "accessibility": {
       "skip_to_content": "Passer au contenu",
